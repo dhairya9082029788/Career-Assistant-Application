@@ -1,0 +1,10 @@
+# Secret Keys
+Secrets.xcconfig
+Config.xcconfig
+*.env
+
+# Xcode noise
+build/
+DerivedData/
+*.xcuserstate
+.DS_Store
